@@ -1,6 +1,7 @@
 # Fake News Detection (NLP) with BERT & Streamlit
 
-[Animation]
+![Streamlit App Demo](Animation.gif)
+![Streamlit App Link]([YOUR_COPIED_IMAGE_LINK_HERE.gif](https://fakenewsdetectapp.streamlit.app/))
 
 This project is an end-to-end NLP workflow to classify real vs. fake news. It demonstrates a critical data science concept: building a simple baseline model, identifying its flaws (data leakage), and then building a robust, deep learning model (BERT) to solve the problem correctly.
 
